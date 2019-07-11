@@ -1,0 +1,4 @@
+int a;
+int b;
+int add = a+b;
+print a;
